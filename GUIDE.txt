@@ -1,0 +1,5 @@
+TO USE:
+1. USE XAMPP APACHE AND ADMIN
+2. Create hotelbook as database name  Or your preferred name just rename the db_name
+3. Import the SQL File from the Assets
+4. Use for testing
